@@ -90,6 +90,9 @@ b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcnNhAAAAAwEA
 ![Second Developer](./images/Second%20developer.PNG)
 ![Third Developer](./images/Third%20developer.PNG)
 ---
-This brings us to the end of the project. Thanks for your patience. To see the video implementation of this project, click [here](https://vimeo.com/758531075/a1d87f747f).
+This brings us to the end of the project.
+
+**This is the video of the Project Implementation and how the users were onboarded. Please click [here](https://vimeo.com/758531075/a1d87f747f) to access it. Thanks**
+--
 
 
